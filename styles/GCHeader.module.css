@@ -1,0 +1,19 @@
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+.content a {
+    text-align: end;
+}
+
+.content .fip {
+    max-height: 35px;
+    margin-top: 10px;
+}
+
+.divider {
+    width: 100vw;
+    margin-top: 5px;
+    border-top: 3px solid #38414d;
+}

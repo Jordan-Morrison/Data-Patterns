@@ -1,0 +1,25 @@
+{
+    "locale": "en",
+    "getOppositeLang": "Français",
+    "siteTitle": "Data Patterns Library",
+    "betaNoticeLabel": "Test site",
+    "SCLabsBetaNotice": "You cannot apply for services or benefits through this test site. Parts of this site may not work and will change.",
+    "backToProjects": "Back to projects",
+    "backToProjectsLink": "https://alpha.service.canada.ca/projects",
+    "dataPatternsLink": "/",
+    "canadaLink": "https://www.canada.ca/en.html",
+    "Patterns": "Patterns",
+    "This pattern is currently": "This pattern is currently",
+    "Date Modified": "Date Modified",
+    "Government of Canada": "Government of Canada",
+    "footerText": "All content of the Data Patterns Library is available under the",
+    "footerLinkLabel": "Open Government Licence - Canada",
+    "footerLink": "https://open.canada.ca/en/open-government-licence-canada",
+    "Contact information": "Contact information",
+    "Terms and conditions": "Terms and conditions",
+    "Privacy": "Privacy",
+    "contactInfoLink": "https://github.com/DTS-STN/Data-Patterns/blob/main/CONTRIBUTING.md",
+    "termsAndConditionsLink": "https://www.canada.ca/en/transparency/terms.html",
+    "privacyLink": "https://www.canada.ca/en/transparency/privacy.html"
+}
+
